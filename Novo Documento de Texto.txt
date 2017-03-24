@@ -1,7 +1,0 @@
-http://www.fpftech.com/wp-content/uploads/2015/10/prototipo_de_um_framework_mvc_para_aplicacoes_php_de_pequeno_porte.pdf
-http://anaisonline.uems.br/index.php/enic/article/view/1502
-http://ojs.fsg.br/index.php/pesquisaextensao/article/view/2273/1824
-
-
-
-/*https://scholar.google.com.br/scholar?q=zend&hl=pt-BR&lr=lang_pt&as_sdt=0%2C5&as_ylo=2015&as_yhi=2017
